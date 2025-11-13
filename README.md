@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/fzcing/fzcing"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&pause=1000&color=9146FF&center=true&random=false&width=435&lines=github.com%2FFzcing"></a>
+  <a href="https://github.com/Mixuc/Mixuc"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&pause=1000&color=9146FF&center=true&random=false&width=435&lines=github.com%2FMixuc"></a>
 </p>
 
 ---
